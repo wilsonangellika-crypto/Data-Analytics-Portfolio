@@ -1,6 +1,6 @@
 # Data-Analytics-Portfolio
 
-Headshot![image001](https://github.com/user-attachments/assets/03155ef9-61e5-43cc-8e3c-0f0d7eb1b038)
+![image001](https://github.com/user-attachments/assets/03155ef9-61e5-43cc-8e3c-0f0d7eb1b038)
 
 Projects
 SQL Project "Coming Soon"

@@ -16,4 +16,4 @@ I first stepped into the world of data analytics by pursuing the Google Data Ana
 ## Connect with me
 
 - [Email Me](mailto:wilsonangellika@gmail.com)
-- [My LinkedIn](https://www.linkedin.com/in/angelwilson/)
+- [My LinkedIn](https://www.linkedin.com/in/angellikawilson/)
